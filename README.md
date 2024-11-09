@@ -1,7 +1,7 @@
 ![image](github-banner.svg)
 
 ### Languages
-[![Skills](https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,django,nestjs,expressjs,rabbitmq,jest,html,css,scss,tailwindcss,jquery,react,postgres,mongodb,docker,aws,ansible,jenkins)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,javascript,typescript)](https://skillicons.dev)
 
 ### Backend
 [![Skills](https://skillicons.dev/icons?i=nodejs,django,nestjs,expressjs,rabbitmq,postgres,mongodb)](https://skillicons.dev)
