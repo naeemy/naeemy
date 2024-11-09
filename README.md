@@ -13,7 +13,7 @@
 [![Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
 ### DevOps
-[![Skills](https://skillicons.dev/icons?i=linux,apple,docker,aws,ansible,jenkins)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,docker,aws,ansible,jenkins)](https://skillicons.dev)
 
 ### Tools
-[![Skills](https://skillicons.dev/icons?i=neovim,git,postman)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=apple,arch,neovim,git,postman)](https://skillicons.dev)
