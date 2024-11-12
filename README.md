@@ -17,3 +17,6 @@
 
 ### Tools
 [![Skills](https://skillicons.dev/icons?i=apple,arch,neovim,git,postman)](https://skillicons.dev)
+
+### Machine
+- MacBook Pro 13 inch (2015)
